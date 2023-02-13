@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+    line-height: 1.5;
+}
+
+body {
+    position: relative;
+    background-color: $second-color;
+    color: $second-color;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+    width: 100%;
+}
